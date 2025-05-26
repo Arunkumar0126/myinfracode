@@ -12,4 +12,6 @@ echo "checking system ip"
 
 ifconfig
 echo " "
+echo "network details"
+netstat -an
 
