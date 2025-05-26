@@ -17,4 +17,5 @@ netstat -an
 echo  "processor details"
 ps -ef
 echo "---------"
+echo "__________________"
 
